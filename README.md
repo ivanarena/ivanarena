@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Ivan, a 21 years old software engineer from Italy.
+I'm Ivan, a 22 years old software engineer from Italy.
 
 - 👨‍💻 Currently pursuing a MSc in Computer Science and Engineering with a major in Artificial Intelligence and Algorithms at [DTU](https://www.dtu.dk/)
 
@@ -7,7 +7,7 @@ I'm Ivan, a 21 years old software engineer from Italy.
 - 👨‍💻 C/C++, Python, JavaScript, PHP
 - ⚙️ React, Node.js, Express
 - 👁️ SASS, CSS, HTML
-- 💽 SQL, MongoDB, Docker, Jupyter Notebook
+- 💽 SQL, MongoDB, Docker, Jupyter Notebook, PyTorch
 
 ## More about me
 - [Portfolio](https://ivanarena.github.io/)
